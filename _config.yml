@@ -19,7 +19,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-include: ['_pages', '_sass', _layouts]
+include: [_pages, _layouts, _assets, _sass]
 sass:
   sass_dir: _sass
   style: compressed
