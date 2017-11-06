@@ -1,27 +1,19 @@
-<nav class="navbar navbar-toggleable-md navbar-light bg-faded fixed-top">
-  <div class="container nav-container">
-    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
+<nav class="navbar fixed-top navbar-expand-md nav-transparent" id="nav">
+  <div class="container">
     <a class="navbar-brand" href="./">
       <img src="./_assets/svg/logo.svg" width="30" height="30" class="d-inline-block align-top" alt="">
-      Alpha Kappa Psi
+      Alpha Kappa Psi <span style="color:orange;font-size:12px;">beta</span>
     </a>
-    <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
-      <ul class="navbar-nav">
-        <li class="nav-item">
-          <a class="nav-link" href="./about">About</span></a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="./brothers">Brothers</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="./events">Events</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="./contact">Contact</a>
-        </li>
-      </ul>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse justify-content-end navbar-collapse" id="navbarNavAltMarkup">
+      <div class="navbar-nav">
+        <a class="nav-item nav-link" href="./about">About</a>
+        <a class="nav-item nav-link" href="./brothers">Brothers</a>
+        <a class="nav-item nav-link" href="./events">Events</a>
+        <a class="nav-item nav-link" href="./contact">Contact</a>
+      </div>
     </div>
   </div>
 </nav>

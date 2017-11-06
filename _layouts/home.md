@@ -7,9 +7,9 @@
   <body>
   	{% include nav.md %}
 
-    <h1>Home</h1>
-    <h1>Home</h1>
-    <h1>Home</h1>
+    <header style="color:white;display:flex;height:2000px;width:100vw;background-color:black;align-items:center;justify-content:center;">
+      <h1>HEADER</h1>
+    </header>
 
     {% include footer.md %}
   </body>
