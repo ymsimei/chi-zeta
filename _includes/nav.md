@@ -2,9 +2,8 @@
   <div class="container">
     <a class="navbar-brand" href="./">
       <img src="./_assets/svg/logo.svg" width="30" height="30" class="d-inline-block align-top" alt="">
-      Alpha Kappa Psi
+      Alpha Kappa Psi<span style="color:orange;font-size:12px;position:relative;left:3px;bottom:5px">beta</span>
     </a>
-    <span style="color:orange;font-size:12px;position:relative;right:5px;bottom:3px">beta</span>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
