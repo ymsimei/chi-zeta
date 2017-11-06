@@ -8,6 +8,8 @@
   	{% include nav.md %}
 
     <h1>Home</h1>
+    <h1>Home</h1>
+    <h1>Home</h1>
 
     {% include footer.md %}
   </body>
