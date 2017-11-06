@@ -1,1 +1,1 @@
-body{background-color:#fc0}
+nav{padding:0px 16px !important;transition:200ms;background-color:transparent !important}nav a{color:#fff !important;padding:16px !important;border-bottom:0px solid gold;transition:200ms}nav .navbar-brand{padding:13px 8px !important}nav ul a:hover{background-color:#475C81}nav ul a.active{border-bottom:4px solid gold;padding-bottom:12px !important;cursor:pointer}nav a.disabled{opacity:.6}nav button{background-color:#f5f5f5 !important;right:0px !important;margin:8px 0 !important}
