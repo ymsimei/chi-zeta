@@ -25,7 +25,7 @@
               Welcome to the website of the Chi Zeta chapter of Alpha Kappa Psi Professional Business Fraternity.
             </h4>
           </div>
-          <div class="col-md-8 offset-md-2">
+          <div class="col-md-10 offset-md-1">
             <p>
               We are proud to be part of the history of Alpha Kappa Psi, both here at NJIT and around the world.
               Alpha Kappa Psi is a co-ed professional fraternity dedicated to developing principled business leaders.
@@ -53,6 +53,36 @@
               Mansha Kohli
               </br>
               President, 2017-2018
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="wrap">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 header">
+            <h3>The Story of Chi Zeta</h3>
+            <hr />
+          </div>
+          <div class="col-md-10 offset-md-1">
+            <p>
+              The Chi Zeta Chapter at the New Jersey Institute of Technology was established in April 2017 by a large group of passionate and dedicated student leaders.
+              The underlying purpose of the development of this Professional Business Fraternity was to get the students involved in impacting change at NJIT.
+              Since its inception, this fraternity has accepted Brothers that are leaders in all sorts of campus activities including Student Government, Social Fraternities, New Student Orientations, Honors Student Council, Residence Life, and more.
+              These distinguished men and women come from every school and every major with the common goal of developing their skills in leadership and business.
+              The beauty of Chi Zeta is in the fact that our Brothers are a diverse group of individuals from all walks of life who have found unity in their passion to become more impactful individuals.
+            </p>
+            <p>
+              Our chapter takes it upon itself to identify areas within the campus and local community in which we can make a difference.
+              We collaborate with corporations to host activities including case competitions, networking events, corporate tours, and more.
+              We work with organizations on campus to create engaging and beneficial events for the entire student body.
+              Through these activities, our Brothers have the opportunity to meet with industry leaders in nearly every field, create relationships that last a lifetime, and make a change that they can be proud of.
+              At the end of the day, when you become a Brother of Alpha Kappa Psi, you become a part of much more than just a brotherhood.
+              You engage.
+              You inspire.
+              You take charge of your future and change the world, one step at a time.
             </p>
           </div>
         </div>

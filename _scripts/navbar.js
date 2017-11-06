@@ -1,6 +1,8 @@
 let nav = document.getElementsByTagName("nav")[0];
 nav.style.backgroundColor = "rgba(0, 0, 0, 0.0)";
-window.onscroll = function (e) {
+window.onscroll = changeNavColor()
+
+function changeNavColor() {
   if ( window.pageYOffset > 50 ) {
     nav.style.backgroundColor = "#2c4b81";
   } else {
