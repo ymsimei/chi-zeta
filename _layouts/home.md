@@ -7,18 +7,18 @@
   <body>
   	{% include nav.md %}
 
-    <header>
+    <div id="hero">
       <span>
         <h1>Alpha Kappa Psi</h1>
         <h2>New Jersey Institute of Technology - Chi Zeta Chapter</h2>
         <h2>The Professional Business Fraternity</h2>
       </span>
-    </header>
+    </div>
 
     <div class="wrap">
       <div class="container">
         <div class="row">
-          <div class="col-md-12 header">
+          <div class="col-md-12">
             <h3>Letter From The President</h3>
             <hr />
             <h4>
