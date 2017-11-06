@@ -64,7 +64,7 @@ function changeIMGs(array) {
   newContent = "";
   for (var i = 0; i < array.length; i++) {
     member = array[i];
-    var newMemberHTML = "<div class='col-md-3 headshot'><img src='"+member.imgURL+"'><h4>"+member.name+"</h4></div>";
+    var newMemberHTML = "<div class='col-xs-6 col-md-3 headshot'><img src='"+member.imgURL+"'><h4>"+member.name+"</h4></div>";
 
 	console.log(newMemberHTML)
     var newContent = newContent.concat(newMemberHTML);
