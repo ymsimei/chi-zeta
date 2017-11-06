@@ -5,35 +5,43 @@
 @import nav
 @import footer
 
+h1, h2, h3
+  font-family: "Lato"
+  text-align: center
+
+h1
+  // font-size: 8vw
+  font-size: 80px
+  margin: 25px 0px
+
+h2
+  // font-size: 3vw
+  font-size: 38px
+  margin: 5px 0px
+
+h3
+  // font-size: 2.5vw
+  font-size: 32px
+  margin: 5px 0px
+
 header
   height: 100vh
   display: flex
   flex-direction: column
   align-items: center
-  justify-content: center
+  justify-content: flex-end
   background: linear-gradient(black 0%, transparent 10%, transparent 40%, black 100%), url('../_assets/jpg/letters.jpg')
   background-position: top center
   background-size: cover
-
-header h1
-  color: white
-  font-size: 8vw
-  text-align: center
-  text-shadow: 0 5px 15px #000
-  position: relative
-  bottom: 10px
-  font-family: "Lato"
-
-header h2
-  color: white
-  font-size: 3vw
-  text-align: center
-  text-shadow: 0 1px 10px #000
-  font-family: "Lato"
-
-header h3
-  color: white
-  font-size: 2.6vw
-  text-align: center
-  text-shadow: 0 1px 10px #000
-  font-family: "Lato"
+  span
+    position: relative
+    bottom: 15vh
+  h1
+    color: white
+    text-shadow: 0 5px 15px #000
+  h2
+    color: white
+    text-shadow: 0 1px 10px #000
+  h3
+    color: white
+    text-shadow: 0 1px 10px #000
