@@ -9,10 +9,10 @@
     </button>
     <div class="collapse justify-content-end navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
-        <a class="nav-item nav-link" href="./about">About</a>
-        <a class="nav-item nav-link" href="./brothers">Brothers</a>
-        <a class="nav-item nav-link" href="./events">Events</a>
-        <a class="nav-item nav-link" href="./contact">Contact</a>
+        <a class="nav-item nav-link {% if page.url == '/about' %}active{% endif %}" href="./about">About</a>
+        <a class="nav-item nav-link {% if page.url == '/brothers' %}active{% endif %}" href="./brothers">Brothers</a>
+        <a class="nav-item nav-link {% if page.url == '/events' %}active{% endif %}" href="./events">Events</a>
+        <a class="nav-item nav-link {% if page.url == '/contact' %}active{% endif %}" href="./contact">Contact</a>
       </div>
     </div>
   </div>
