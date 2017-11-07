@@ -38,7 +38,7 @@
     </div>
 
     {% include footer.md %}
-    <script src="./_scripts/loadBrothers.js"></script>
+    <script src="{{site.baseurl}}/_scripts/loadBrothers.js"></script>
   </body>
 
 </html>
