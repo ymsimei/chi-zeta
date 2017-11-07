@@ -34,7 +34,7 @@
           <div class="col-md-6">
             <h4>VP of Alumni: <a href="mailto:ajm67@njit.edu">Aidan McGourty</a></h4>
             <h4>Master of Rituals: <a href="mailto:vt235@njit.edu">Vinaya Thadhani</a></h4>
-            <h4>Secriyatary: <a href="mailto:rk544@njit.edu">Riya Kurian</a></h4>
+            <h4>Secretary: <a href="mailto:rk544@njit.edu">Riya Kurian</a></h4>
             <h4>Historian: <a href="mailto:afm36@njit.edu">Antonio Mistretta</a></h4>
           </div>
         </div>
