@@ -12,6 +12,7 @@
         <div class="row">
           <div class="col-md-12">
             <h3>Upcoming Events</h3>
+            <h4>Find out about our upcoming events.</h4>
           </div>
         </div>
       </div>
