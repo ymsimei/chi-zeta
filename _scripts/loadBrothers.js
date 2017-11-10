@@ -2,8 +2,13 @@
 ---
 
 var foundingValues = [
+    {% for image in site.static_files %}
+        {% if image.path contains 'headshots/founding' %}
+            {name: "{{image.name}}".replace(".jpg", "").replace("~", "'"), position: "Member", imgURL: "{{ site.baseurl }}{{ image.path }}"},
+        {% endif %}
+    {% endfor %}
                         // {name: "Annaleigh Potterton", position: "Service Committee Co-Chair", imgURL: "{{site.baseurl}}/_assets/jpg/headshots/founding/head-17.jpg"},
-                        {name: "Adit Patel", position: "PR Committee", imgURL: "{{site.baseurl}}/_assets/jpg/headshots/founding/head-15.jpg"},
+                       /* {name: "Adit Patel", position: "PR Committee", imgURL: "{{site.baseurl}}/_assets/jpg/headshots/founding/head-15.jpg"},
                         {name: "Aidan McGourty", position: "VP Alumni Relations", imgURL: "{{site.baseurl}}/_assets/jpg/headshots/founding/head-37.jpg"},
                         {name: "Akash Sewani", position: "Service Committee Co-Chair", imgURL: "{{site.baseurl}}/_assets/jpg/headshots/founding/head-22.jpg"},
                         {name: "Antonio Mistretta", position: "Historian", imgURL: "{{site.baseurl}}/_assets/jpg/headshots/founding/head-44.jpg"},
@@ -57,7 +62,7 @@ var foundingValues = [
                         {name: "William McCann", position: "Compliance Committee", imgURL: "{{site.baseurl}}/_assets/jpg/headshots/founding/joe.jpg"},
                         // {name: "Wissam Esmail", position: "Compliance Committee", imgURL: "assets/jpg/empty.jpg"},
                         {name: "Zohaeb Atiq", position: "Finance Committee", imgURL: "{{site.baseurl}}/_assets/jpg/headshots/founding/zohaeb.jpg"}
-                  ]
+*/ ]
 
 var alphaValues = [
 
