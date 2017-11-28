@@ -5,20 +5,6 @@ var foundingValues = [
         
     
         
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
             {name: "Adit Patel.jpg".replace(".jpg", "").replace("~", "'"), position: "Member", imgURL: "/_assets/jpg/headshots/founding/Adit Patel.jpg"},
         
     
@@ -32,6 +18,10 @@ var foundingValues = [
     
         
             {name: "Antonio Mistretta.jpg".replace(".jpg", "").replace("~", "'"), position: "Member", imgURL: "/_assets/jpg/headshots/founding/Antonio Mistretta.jpg"},
+        
+    
+        
+            {name: "Aris Rafael.jpg".replace(".jpg", "").replace("~", "'"), position: "Member", imgURL: "/_assets/jpg/headshots/founding/Aris Rafael.jpg"},
         
     
         
@@ -212,6 +202,12 @@ var foundingValues = [
     
         
             {name: "Zohaeb Atiq.jpg".replace(".jpg", "").replace("~", "'"), position: "Member", imgURL: "/_assets/jpg/headshots/founding/Zohaeb Atiq.jpg"},
+        
+    
+        
+    
+        
+    
         
     
         
