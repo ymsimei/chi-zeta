@@ -27,7 +27,7 @@ function displayBrotherData(dictionary) {
   for (var grade in dictionary) {
     html += "<div class='col-12'><h3>"+grade+"</h3><hr/></div>"
     for (var name in dictionary[grade]) {
-      html += "<div class='col-6 col-sm-3 col-lg-2 headshot'><img class='headshot' src='"+dictionary[grade][name]['headshot']+"'/><h4>"+name+"<a href='#'><img class='linkedin' src={{site.baseurl}}/_assets/svg/linkedin.svg></a></h4></div>"
+      html += "<div class='col-6 col-sm-3 col-lg-2 headshot'><a href='"+dictionary[grade][name]['linkedin']+"'><img class='linkedin' src={{site.baseurl}}/_assets/svg/linkedin.svg></a><img class='headshot' src='"+dictionary[grade][name]['headshot']+"'/><h4>"+name+"</h4></div>"
     }
   }
   document.getElementById("headshots").innerHTML = html;
