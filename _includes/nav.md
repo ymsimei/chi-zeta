@@ -12,6 +12,7 @@
         <a class="nav-item nav-link {% if page.url == '/about' %}active{% endif %}" href="{{site.baseurl}}/about">About</a>
         <a class="nav-item nav-link {% if page.url == '/brothers' %}active{% endif %}" href="{{site.baseurl}}/brothers">Brothers</a>
         <a class="nav-item nav-link {% if page.url == '/events' %}active{% endif %}" href="{{site.baseurl}}/events">Events</a>
+        <a class="nav-item nav-link {% if page.url == '/rush' %}active{% endif %}" href="{{site.baseurl}}/rush">Rush</a>
         <a class="nav-item nav-link {% if page.url == '/contact' %}active{% endif %}" href="{{site.baseurl}}/contact">Contact</a>
       </div>
     </div>

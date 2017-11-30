@@ -58,20 +58,24 @@ header
   align-items: center
   justify-content: center
   &#about
-    background: linear-gradient(black 0%, transparent 20%), url('../_assets/jpg/letters.jpg')
+    background: linear-gradient(black 0%, transparent 20%), url('{{site.baseurl}}/_assets/jpg/letters.jpg')
     background-position: top center
     background-size: cover
   &#brothers
-    background: linear-gradient(black 0%, transparent 15%), url('../_assets/jpg/flag.jpg')
+    background: linear-gradient(black 0%, transparent 15%), url('{{site.baseurl}}/_assets/jpg/flag.jpg')
     background-position: top center
     background-size: cover
   &#events
-    background: linear-gradient(black 0%, transparent 20%), url('../_assets/jpg/skyline.jpg')
+    background: linear-gradient(black 0%, transparent 20%), url('{{site.baseurl}}/_assets/jpg/skyline.jpg')
     background-position: center center
     background-size: cover
   &#contact
-    background: linear-gradient(black 0%, transparent 20%), url('../_assets/jpg/thumbs.jpg')
+    background: linear-gradient(black 0%, transparent 20%), url('{{site.baseurl}}/_assets/jpg/thumbs.jpg')
     background-position: top center
+    background-size: cover
+  &#rush
+    background: linear-gradient(black 0%, transparent 20%), url('{{site.baseurl}}/_assets/jpg/rush.jpg')
+    background-position: center center
     background-size: cover
   h3
     color: white
@@ -134,3 +138,10 @@ header
 
 .events
   text-align: center
+
+#rush-imgs
+  padding: 0
+  .col-4
+    padding: 0
+  img
+    width: 100%
