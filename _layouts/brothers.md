@@ -18,11 +18,7 @@
       </div>
     </header>
 
-    <div class="wrap">
-      <div class="container">
-        <div class="row" id="headshots">
-        </div>
-      </div>
+    <div id="headshots">
     </div>
 
     {% include footer.md %}
