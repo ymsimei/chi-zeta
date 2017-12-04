@@ -146,9 +146,9 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <h3>Interested?</h3>
+            <h3>Convinced already?</h3>
             <hr />
-            <h4>Join our interest list</h4>
+            <h4>Join our interest list.</h4>
           </div>
           <div class="col-md-12">
             <form method="POST" action="http://formspree.io/afm36@njit.edu">
