@@ -131,7 +131,7 @@
           <div class="col-md-6">
             <h3>Teamwork</h3>
             <hr />
-            <h4>It's what make the dream work.</h4>
+            <h4>It's what makes the dream work.</h4>
             <p>
               Through teamwork, our members gain an understanding of the importance of service, develop an appreciation of diversity, and utilize critical thinking skills to overcome challenges and celebrate successes.
               The fraternity experience provides students with an ideal, non-threatening environment for establishing individual relationships while members work together to make the most out of their involvement in Alpha Kappa Psi.
