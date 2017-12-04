@@ -24,10 +24,10 @@
           <div class="col-md-12">
             <div class="col-md-12">
               <h3>
-                “We were to form an organization which might find a great field of work in being of mutual assistance to each other in future business life.”
+                "To bring together inspiring individuals, foster lifelong relationships, and make an impact in the community."
               </h3>
               <hr />
-              <h4>Howard M. Jefferson, Founder</h4>
+              <h4>Awais Qazi, Chi Zeta Founder</h4>
             </div>
           </div>
         </div>
@@ -137,6 +137,25 @@
               The fraternity experience provides students with an ideal, non-threatening environment for establishing individual relationships while members work together to make the most out of their involvement in Alpha Kappa Psi.
               Teamwork is a valuable skill that ranks very high among recruiters.
             </p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="wrap">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <h3>Interested?</h3>
+            <hr />
+            <h4>Join our interest list</h4>
+          </div>
+          <div class="col-md-12">
+            <form method="POST" action="http://formspree.io/afm36@njit.edu">
+              <input name="message" placeholder="Name">
+              <input type="email" name="email" placeholder="Email">
+              <button type="submit">Send</button>
+            </form>
           </div>
         </div>
       </div>
