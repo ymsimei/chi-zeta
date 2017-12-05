@@ -151,7 +151,7 @@
             <h4>Join our interest list.</h4>
           </div>
           <div class="col-md-12">
-            <form method="POST" action="http://formspree.io/afm36@njit.edu">
+            <form method="POST" action="http://formspree.io/njit.akpsi@gmail.com">
               <input name="message" placeholder="Name">
               <input type="email" name="email" placeholder="Email">
               <button type="submit">Send</button>
