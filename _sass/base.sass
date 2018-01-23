@@ -29,11 +29,11 @@ h4
 
 h5
   font-size: 24px
-  margin: 5px 0px
+  margin: 20px 0px 0px 0px
 
 h6
   font-size: 20px
-  margin: 15px 0px 5px 0px
+  margin: 5px 0px 5px 0px
 
 p
   font-family: "Open Sans"
@@ -50,6 +50,9 @@ hr
   background-color: white
   &:nth-child(2n)
     background-color: #f5f5f5
+
+ul
+  margin-bottom: 0
 
 header
   padding: 106px 50px 50px 50px
@@ -76,6 +79,10 @@ header
   &#rush
     background: linear-gradient(black 0%, transparent 20%), url('{{site.baseurl}}/_assets/jpg/rush.jpg')
     background-position: top center
+    background-size: cover
+  &#apply
+    background: linear-gradient(black 0%, transparent 20%), url('{{site.baseurl}}/_assets/jpg/apply.jpg')
+    background-position: center center
     background-size: cover
   h3
     color: white
@@ -178,3 +185,21 @@ form
     color: #fff
   footer
     display: none
+
+.left
+  text-align: left
+  font-family: "Lato"
+
+.apply-btn
+  padding: 15px 25px
+  background-color: gold
+  color: #2c4b81
+  font-family: 'Lato'
+  font-weight: bold
+  font-size: 22px
+  text-decoration: none
+  text-align: center
+  display: block
+  &:hover
+    color: #2c4b81
+    text-decoration: none
