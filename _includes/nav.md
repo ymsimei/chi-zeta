@@ -14,6 +14,7 @@
         <!-- <a class="nav-item nav-link {% if page.url == '/events' %}active{% endif %}" href="{{site.baseurl}}/events">Events</a> -->
         <a class="nav-item nav-link {% if page.url == '/rush' %}active{% endif %}" href="{{site.baseurl}}/rush">Rush</a>
         <a class="nav-item nav-link {% if page.url == '/contact' %}active{% endif %}" href="{{site.baseurl}}/contact">Contact</a>
+        <a class="nav-item nav-link {% if page.url == '/apply' %}active{% endif %}" href="{{site.baseurl}}/apply">Apply</a>
       </div>
     </div>
   </div>
