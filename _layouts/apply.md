@@ -91,10 +91,10 @@
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-12">
-            <h3>APPLICATIONS ARE DUE JANUARY 31ST AT 10:00AM</h3>
+            <h3>APPLICATIONS ARE CLOSED</h3>
           </div>
           <div class="col-md-6">
-            <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScbYYNhr7XU5V5kTA2a0g-kIzHimTwSSZFyJrlEK1Rju64tmw/viewform?usp=sf_link#start=openform" class="apply-btn">APPLY NOW</a>
+            <!-- <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScbYYNhr7XU5V5kTA2a0g-kIzHimTwSSZFyJrlEK1Rju64tmw/viewform?usp=sf_link#start=openform" class="apply-btn">APPLY NOW</a> -->
           </div>
         </div>
       </div>
