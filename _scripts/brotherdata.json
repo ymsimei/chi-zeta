@@ -241,5 +241,35 @@
       "linkedin": "https://www.linkedin.com/in/thomas-slawinski-9a9241139",
       "headshot": "{{ site.baseurl }}/_assets/jpg/headshots/alpha/Thomas Slawinski.jpg"
     }
+  },
+  "Beta Class": {
+    "Aarati Srikumar": {
+      "linkedin": "https://www.linkedin.com/in/aarati-srikumar",
+      "headshot": "{{ site.baseurl }}/_assets/jpg/headshots/beta/Aarati Srikumar.jpg"
+    },
+    "Annie Butt": {
+      "linkedin": "https://www.linkedin.com/in/anniebutt",
+      "headshot": "{{ site.baseurl }}/_assets/jpg/headshots/beta/Annie Butt.jpg"
+    },
+    "Denzel Alib": {
+      "linkedin": "https://www.linkedin.com/in/denzelalib97",
+      "headshot": "{{ site.baseurl }}/_assets/jpg/headshots/beta/Denzel Alib.jpg"
+    },
+    "Jack Thompson": {
+      "linkedin": "https://www.linkedin.com/in/jackthompsonnjit",
+      "headshot": "{{ site.baseurl }}/_assets/jpg/headshots/beta/Jack Thompson.jpg"
+    },
+    "Jeremy Bedient": {
+      "linkedin": "https://www.linkedin.com/in/jbedient",
+      "headshot": "{{ site.baseurl }}/_assets/jpg/headshots/beta/Jeremy Bedient.jpg"
+    },
+    "Ramon Almonte": {
+      "linkedin": "https://www.linkedin.com/in/ramon-almonte-9358a6132",
+      "headshot": "{{ site.baseurl }}/_assets/jpg/headshots/beta/Ramon Almonte.jpg"
+    },
+    "Sohamsinh Yadav": {
+      "linkedin": "https://www.linkedin.com/in/sohamsinh-yadav",
+      "headshot": "{{ site.baseurl }}/_assets/jpg/headshots/beta/Sohamsinh Yadav.jpg"
+    }
   }
 }
