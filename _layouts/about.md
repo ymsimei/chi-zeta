@@ -67,7 +67,7 @@
             <hr />
           </div>
           <div class="col-md-12">
-            <h6>WHAT'S IT LIKE TO BE IN A BUSINESS FRATERNITY?</h6>
+            <h5>WHAT'S IT LIKE TO BE IN A BUSINESS FRATERNITY?</h5>
             <p>
               Professional business fraternities are typically oriented towards specific professional development and therefore, focus on networking within that profession.
             </p>
@@ -78,7 +78,7 @@
             </p>
           </div>
           <div class="col-md-12">
-            <h6>WHY SHOULD I JOIN ALPHA KAPPA PSI?</h6>
+            <h5>WHY SHOULD I JOIN ALPHA KAPPA PSI?</h5>
             <p>
               By bringing together people that share the same interests, and further developing their skills and talents in that field, they are able to capitalize on networking, professional development, and furthering every member's careers and opportunities in that given field.
               Any recruiter will tell you that it's not what you've learned in a classroom that is important; it is your ability to apply that knowledge.
@@ -86,14 +86,14 @@
             </p>
           </div>
           <div class="col-md-12">
-            <h6>WHO CAN JOIN ALPHA KAPPA PSI?</h6>
+            <h5>WHO CAN JOIN ALPHA KAPPA PSI?</h5>
             <p>
               Alpha Kappa Psi is open to men and women from all majors who are interested in professional development.
               Students involved in other campus organizations, including social Greek organizations, are eligible as well.
             </p>
           </div>
           <div class="col-md-12">
-            <h6>WHAT IS THE DIFFERENCE BETWEEN A SOCIAL AND PROFESSIONAL GREEK ORGANIZATION?</h6>
+            <h5>WHAT IS THE DIFFERENCE BETWEEN A SOCIAL AND PROFESSIONAL GREEK ORGANIZATION?</h5>
             <p>
               Social fraternities and sororities and professional fraternities are two different routes students take, and aspirational students might try both.
               If you are unsure of whether to join a social or professional Greek organization, or even both, get to know the members and try to see which option is a better fit for you.
@@ -105,7 +105,7 @@
             </p>
           </div>
           <div class="col-md-12">
-            <h6>WHAT IS <strong>RUSH</strong>?</h6>
+            <h5>WHAT IS <strong>RUSH</strong>?</h5>
             <p>
               The rush process is meant to provide an introduction to the culture and members of the Chi Zeta chapter of Alpha Kappa Psi.
               It consists of a series of social and professional events designed to help prospective members, "Rushes", determine whether or not our fraternity is the right fit for them.
@@ -114,47 +114,47 @@
             </p>
           </div>
           <div class="col-md-12">
-            <h6>WHAT IS A <strong>BID</strong>?</h6>
+            <h5>WHAT IS A <strong>BID</strong>?</h5>
             <p>
               A “bid” is an invitation to join a Fraternity.
             </p>
           </div>
           <div class="col-md-12">
-            <h6>WHAT IS A <strong>PLEDGE</strong>?</h6>
+            <h5>WHAT IS A <strong>PLEDGE</strong>?</h5>
             <p>
               A “pledge” is a person who has accepted their bid, and will undergo a ritual conducted by the fraternity.
               It is quite literally a “promise” made by the individual to strive to become a full member of the Brotherhood.
             </p>
           </div>
           <div class="col-md-12">
-            <h6>DO YOU HAZE?</h6>
+            <h5>DO YOU HAZE?</h5>
             <p>
               No. All recruitment and brother activities are designed to build teamwork, trust, professional development, brotherhood, and most importantly, to make sure you have and know what is necessary to be a good brother.
             </p>
           </div>
           <div class="col-md-12">
-            <h6>WHAT IF I DON'T GET A BID?</h6>
+            <h5>WHAT IF I DON'T GET A BID?</h5>
             <p>
               Please do not be discouraged if you do not receive a bid the first time you rush.
               We encourage you to come out and rush again next semester if you do not receive a bid the first time.
             </p>
           </div>
           <div class="col-md-12">
-            <h6>DO I HAVE TO PAY TO RUSH?</h6>
+            <h5>DO I HAVE TO PAY TO RUSH?</h5>
             <p>
               Not at all! Rush is a free process and you are not obligated to come back the next day.
               All food and beverages provided at rush are compliments of the brotherhood.
             </p>
           </div>
           <div class="col-md-12">
-            <h6>WHAT IS THE TIME COMMITMENT OF PLEDGING?</h6>
+            <h5>WHAT IS THE TIME COMMITMENT OF PLEDGING?</h5>
             <p>
               The actual length varies with every semester, but mandatory requirements include attendance at weekly meetings and additional events.
               While the pledging process is at times very rigorous, it is also undoubtedly an invaluable learning and growing process that every potential brother must go through.
             </p>
           </div>
           <div class="col-md-12">
-            <h6>I’M A FRESHMAN. CAN I RUSH IN THE FALL?</h6>
+            <h5>I’M A FRESHMAN. CAN I RUSH IN THE FALL?</h5>
             <p>
               Unfortunately, freshman can only rush and pledge during their Spring semester.
               Fall rush is open to only sophomores and up.
@@ -162,14 +162,14 @@
             </p>
           </div>
           <div class="col-md-12">
-            <h6>WHAT IS THE MINIMUM GPA FOR RECRUITMENT?</h6>
+            <h5>WHAT IS THE MINIMUM GPA FOR RECRUITMENT?</h5>
             <p>
               The minimum GPA to apply for membership is a 2.5.
               If you do not meet this prerequisite, we encourage you to apply as soon as you are eligible.
             </p>
           </div>
           <div class="col-md-12">
-            <h6>WHAT IF I HAVE MORE QUESTIONS?</h6>
+            <h5>WHAT IF I HAVE MORE QUESTIONS?</h5>
             <p>
               Any furthers can be sent to us through the form under the “Contact Us” tab.
               As always, don’t hesitate to reach out to a Brother you know!
