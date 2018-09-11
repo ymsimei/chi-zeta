@@ -1,29 +1,8 @@
 <!DOCTYPE html>
 <html>
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-
-  <link href="https://fonts.googleapis.com/css?family=Lato:700|Open+Sans:400" rel="stylesheet">
-  <link rel="stylesheet" href="/styles/base.css">
-</head>
-
+  {% include head.html %}
   <body>
-  	<nav class="wrap">
-  <div class="container">
-    <div>
-      <a href="/"><h4 class="show">AKPsi</h4><h4 class="hidden">Alpha Kappa Psi</h4></a>
-    </div>
-    <div class="links">
-      <a href="/about"class="active">About</a>
-      <a href="/brothers">Brothers</a>
-      <!-- <a href="/contact">Contact</a> -->
-      <a href="/rush">Rush</a>
-    </div>
-  </div>
-</nav>
-
+  	{% include nav.html %}
     <div class="hero about wrap">
       <div class="container">
         <h1>Our Vision.</h1>
@@ -222,20 +201,6 @@
         </p>
       </div>
     </div>
-    <footer class="wrap">
-  <div class="container">
-    <div class="left">
-      <p>© 2018 - All Rights with Alpha Kappa Psi</p>
-    </div>
-    <div class="right">
-      <a href="https://github.com/Ymsimei/ChiZeta" target="_blank">Source Code</a>
-      <a href="https://www.facebook.com/akpsinjit" target="_blank">Facebook</a>
-      <a href="https://twitter.com/AKPsiNJIT" target="_blank">Twitter</a>
-      <a href="https://www.instagram.com/njit_akpsi" target="_blank">Instagram</a>
-    </div>
-  </div>
-</footer>
-<script src=/scripts/navbar.js></script>
-
+    {% include footer.html %}
   </body>
 </html>
