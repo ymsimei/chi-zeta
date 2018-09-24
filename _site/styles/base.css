@@ -212,7 +212,7 @@ footer.wrap {
 .letter .container {
   display: grid;
   grid-template-columns: 3fr 2fr;
-  grid-column-gap: 10px; }
+  grid-column-gap: 30px; }
   .letter .container img {
     width: 100%; }
 
