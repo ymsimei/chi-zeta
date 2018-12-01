@@ -22,14 +22,18 @@ function loadJSON(callback) {
 }
 
 function displayBrotherData(dictionary) {
-  //console.log(dictionary);
   var html = "";
   for (var semester in dictionary) {
     html += "<div class='container'><h2>"+semester+"</h2><hr><div class='grid'>"
     for (var name in dictionary[semester]) {
-      html += "<div><img src='"+dictionary[semester][name]['headshot']+"'/><p>"+name+"</p></div>"
+      if (dictionary[semester][name]['data']) {
+        html += "<div><img data-collective="+dictionary[semester][name]['data']+" src='"+dictionary[semester][name]['headshot']+"'/><p>"+name+"</p></div>"
+      } else {
+        html += "<div><img src='"+dictionary[semester][name]['headshot']+"'/><p>"+name+"</p></div>"
+      }
     }
     html += "</div></div></div>"
   }
   document.getElementById("headshots").innerHTML = html;
+  loadCollective();
 }

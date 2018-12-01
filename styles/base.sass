@@ -207,11 +207,16 @@ footer.wrap
   background-size: cover
   background-position: center
   &.about
-    background-image: url(/assets/banners/apply.jpg)
+    background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url(/assets/banners/apply.jpg)
+    background-size: cover
+    background-position: center
   &.brothers
-    background-image: url(/assets/banners/eb.jpg)
+    background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url(/assets/banners/eb.jpg)
+    background-size: cover
+    background-position: center
   &.rushing
-    background-image: url(/assets/banners/rush.jpg)
+    background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url(/assets/banners/rush.jpg)
+    background-size: cover
     background-position: top
 
 .letter .container
@@ -263,6 +268,70 @@ footer.wrap
 
 .show
   display: none !important
+
+#overlay
+  display: none
+  position: fixed
+  top: 0
+  left: 0
+  background-color: rgba(0, 0, 0, 0.5)
+  height: 100vh
+  width: 100vw
+  align-items: flex-start
+  justify-content: center
+  overflow: scroll
+  animation: fadeIn 0.5s
+  #card
+    width: 100%
+    max-width: 960px
+    background-color: white
+    margin: 50px
+    position: relative
+    animation: slideDown 0.75s
+    #icon
+      width: 300px
+      position: absolute
+      margin: 25px
+      box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24)
+      border: 5px solid black
+    .top
+      padding: 55px 25px 25px 345px
+      background-color: #f5f5f5
+      #subtitle
+        color: #2b2b2b
+        font-weight: 400
+        font-size: 26px
+    .bottom
+      padding: 25px
+      display: flex
+      flex-direction: row
+      #info
+        width: 325px
+        margin-top: 235px
+        display: inline
+        .key
+          font-size: 18px
+          line-height: 12px
+        .value
+          font-weight: 700
+          margin-bottom: 10px
+      #description
+        width: 600px
+        display: inline
+        p
+          margin-bottom: 25px
+
+@keyframes fadeIn
+    from
+      opacity: 0
+    to
+      opacity: 1
+
+@keyframes slideDown
+    from
+      top: -100px
+    to
+      top: 0px
 
 @media only screen and (max-width: 600px)
   .wrap

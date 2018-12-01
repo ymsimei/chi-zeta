@@ -202,11 +202,16 @@ footer.wrap {
   background-size: cover;
   background-position: center; }
   .hero.about {
-    background-image: url(/assets/banners/apply.jpg); }
+    background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url(/assets/banners/apply.jpg);
+    background-size: cover;
+    background-position: center; }
   .hero.brothers {
-    background-image: url(/assets/banners/eb.jpg); }
+    background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url(/assets/banners/eb.jpg);
+    background-size: cover;
+    background-position: center; }
   .hero.rushing {
-    background-image: url(/assets/banners/rush.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url(/assets/banners/rush.jpg);
+    background-size: cover;
     background-position: top; }
 
 .letter .container {
@@ -259,6 +264,68 @@ footer.wrap {
 .show {
   display: none !important; }
 
+#overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  height: 100vh;
+  width: 100vw;
+  align-items: flex-start;
+  justify-content: center;
+  overflow: scroll;
+  animation: fadeIn 0.5s; }
+  #overlay #card {
+    width: 100%;
+    max-width: 960px;
+    background-color: white;
+    margin: 50px;
+    position: relative;
+    animation: slideDown 0.75s; }
+    #overlay #card #icon {
+      width: 300px;
+      position: absolute;
+      margin: 25px;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+      border: 5px solid black; }
+    #overlay #card .top {
+      padding: 55px 25px 25px 345px;
+      background-color: #f5f5f5; }
+      #overlay #card .top #subtitle {
+        color: #2b2b2b;
+        font-weight: 400;
+        font-size: 26px; }
+    #overlay #card .bottom {
+      padding: 25px;
+      display: flex;
+      flex-direction: row; }
+      #overlay #card .bottom #info {
+        width: 325px;
+        margin-top: 235px;
+        display: inline; }
+        #overlay #card .bottom #info .key {
+          font-size: 18px;
+          line-height: 12px; }
+        #overlay #card .bottom #info .value {
+          font-weight: 700;
+          margin-bottom: 10px; }
+      #overlay #card .bottom #description {
+        width: 600px;
+        display: inline; }
+        #overlay #card .bottom #description p {
+          margin-bottom: 25px; }
+
+@keyframes fadeIn {
+  from {
+    opacity: 0; }
+  to {
+    opacity: 1; } }
+@keyframes slideDown {
+  from {
+    top: -100px; }
+  to {
+    top: 0px; } }
 @media only screen and (max-width: 600px) {
   .wrap {
     padding: 25px 0; }
