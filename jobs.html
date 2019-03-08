@@ -1,91 +1,53 @@
+---
+---
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="utf-8">
-            <meta http-equiv="X-UA-Compatible" content="IE=edge">
-                <meta name="viewport" content="width=device-width, initial-scale=1">
-                    <title>Easy Application</title>
-                    
-                    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-                        
-                        <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-                        <!--[if lt IE 9]>
-                         <script src="//oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-                         <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-                         <![endif]-->
-                        <style>
-                            body{
-                                margin-top: 50px;
-                                position: relative;
-                            }
-                        nav{
-                            position: absolute;
-                            top: 0;
-                            left: 0;
-                        }
-                        .resp-container {
-                            overflow: hidden;
-                        }
-                        .resp-iframe {
-                            position: relative;
-                            top: 5%;
-                            left: 5%;
-                            bottom: 5%;
-                            border: 0;
-                        }
-                        </style>
-                        </head>
-    
+  {% include head.html %}
     <body>
-        
-        
-        <nav class="navbar navbar-inverse navbar-fixed-top">
-            <div class="container">
-
-                <div class="navbar-header">
-                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <a class="navbar-brand" href="#">Easy Application</a>
-                </div>
-                <div id="navbar" class="collapse navbar-collapse">
-                    <!-- <ul class="nav navbar-nav">
-                     <li class="active"><a href="#">Home</a></li>
-                     <li><a href="#about">About</a></li>
-                     <li><a href="#contact">Contact</a></li>
-                     </ul> -->
-                </div><!--/.nav-collapse -->
-            </div>
-        </nav>
-        
+      {% include nav.html %}
+      <div class="hero about wrap">
         <div class="container">
-            <div id="placeholder">
-            </div>
-            <div>
-                <a target="_blank" href="https://drive.google.com/file/d/1uLqOH3eHsxQUXckMgFf5pUzcAxrDtbuT/preview">Additional document to get started with job searching</a>
-            </div>
-<br>
-            <p>
-            <label for="filter">Countries/Places:</label>
-            <select class="form-control" id="filter"></select>
-            </p>
-            <table id="list" class="table table-bordered">
-                <thead>
-                    <tr>
-                        <th>Company Name</th>
-                        <th>Location</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    
-                </tbody>
-            </table>
-        </div><!-- /.container -->
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-        <script src="//cdnjs.cloudflare.com/ajax/libs/markdown.js/0.5.0/markdown.min.js"></script>
-        <script src="./scripts/jobs_script.js"></script>
+          <h1>Easy Applications.</h1>
+          <hr>
+          <p>Created by The Goldman Vaks, Admiral in the Great Navy of the State of Nebraska.</p>
+        </div>
+      </div>
+      <div class="wrap jobs">
+        <div class="container">
+          <p>
+            Have you ever tried to apply for a company only to discover they won't let you upload your resume? Instead you have to meticulously fill out pages of information (all of which could be found on your resume).
+          </p>
+          <br>
+          <p>
+            This is a list of companies that are easy to apply to. These companies use a job application system that allows a candidate to focus on their application rather spend energy fighting bad UX (e.g. Jobvite, Lever, Greenhouse are all good systems). If the company uses a system that requires the candidate to manually input every field from their resume (e.g. Taleo and Brassring) they are not allowed on this list.
+          </p>
+          <br>
+          <p>
+            Please note that it is not encouraged to blindly apply to every company on this list. I made this list because I felt that the application process of a company is a reflection on their culture and internal processes. Every link is to the company's main career page so that you can spend some time learning about the company and making sure it's a good fit for you before applying.
+          </p>
+          <br>
+          <a target="_blank" href="https://drive.google.com/file/d/1uLqOH3eHsxQUXckMgFf5pUzcAxrDtbuT/preview">Additional document to get started with job searching</a>
+        </div>
+      </div>
+      <div class="wrap chart">
+        <div class="container">
+          <label for="filter">Countries/Places:</label>
+          <select id="filter"></select>
+          <table id="list" class="table table-bordered">
+            <thead>
+              <tr>
+                <th>Company Name</th>
+                <th>Location</th>
+              </tr>
+            </thead>
+            <tbody>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      {% include footer.html %}
+      <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+      <script src="//cdnjs.cloudflare.com/ajax/libs/markdown.js/0.5.0/markdown.min.js"></script>
+      <script src="/scripts/jobs_script.js"></script>
     </body>
 </html>
