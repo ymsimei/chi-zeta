@@ -29,7 +29,7 @@ function displayBrotherData(dictionary) {
       if (dictionary[semester][name]['data']) {
         html += "<div><img data-collective="+dictionary[semester][name]['data']+" src='"+dictionary[semester][name]['headshot']+"'/><p>"+name+"</p></div>"
       } else {
-        html += "<div><img src='"+dictionary[semester][name]['headshot']+"'/><p>"+name+"</p></div>"
+        html += "<div><a href='//"+dictionary[semester][name]['linkedin']+"'><img src='"+dictionary[semester][name]['headshot']+"'/></a><p>"+name+"</p></div>"
       }
     }
     html += "</div></div></div>"
