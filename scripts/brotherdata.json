@@ -349,5 +349,49 @@
       "linkedin": "www.linkedin.com/in/ujjwalarai/",
       "headshot": "/assets/headshots/delta/Ujjwala Rai.JPG"
     }
+  },
+
+  "Epsilon Class": {
+    "Aaron Kellett": {
+      "linkedin": "www.linkedin.com/in/aaron-kellett-0b5820176/",
+      "headshot": "/assets/headshots/epsilons/Aaron.jpg"
+    },
+    "Alekhya Thota": {
+      "linkedin": "https://www.linkedin.com/in/alekhya-thota/",
+      "headshot": "/assets/headshots/epsilons/Alekhya.jpg"
+    },
+    "Anna Mathew": {
+      "linkedin": "https://www.linkedin.com/in/annamathew00/",
+      "headshot": "/assets/headshots/epsilons/Anna.jpg"
+    },
+    "Carlos Cespedes": {
+      "linkedin": "https://www.linkedin.com/in/carlos-cespedes1124/",
+      "headshot": "/assets/headshots/epsilons/Carlos.CR2.jpg"
+    },
+    "Diptojyoti Chakravarty": {
+      "linkedin": "https://www.linkedin.com/in/diptojyoti-chakravarty-3474a6125/?locale=de_DE",
+      "headshot": "/assets/headshots/epsilons/dip.jpg"
+    },
+    "Ishani Patel": {
+      "linkedin": "https://www.linkedin.com/in/patel-ishani/",
+      "headshot": "/assets/headshots/epsilons/Ishani.jpg"
+    },
+    "Lindsey Riggs": {
+      "linkedin": "https://www.linkedin.com/in/lindseymriggs/",
+      "headshot": "/assets/headshots/epsilons/Lindsey.jpg"
+    },
+    "Marvin Rivas": {
+      "linkedin": "https://www.linkedin.com/in/marvin-r525/",
+      "headshot": "/assets/headshots/epsilons/Marvin.jpg"
+    },
+    "Stefan Knapik": {
+      "linkedin": "https://www.linkedin.com/in/stefanknapik/",
+      "headshot": "/assets/headshots/epsilons/Stefan.jpg"
+    },
+    "Tejas Patel": {
+      "linkedin": "https://www.linkedin.com/in/tejas-patel1/",
+      "headshot": "/assets/headshots/epsilons/Tejas.jpg"
+    }
   }
+
 }
