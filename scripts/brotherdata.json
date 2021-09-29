@@ -1,5 +1,5 @@
 {
-  "Eta Class Active Brothers": {
+  "Active Brothers": {
     "Destiny Adeleye": {
       "linkedin": "www.linkedin.com/in/destiny-adeleye-314365113/",
       "headshot": "/assets/headshots/eta/Destiny.jpg"
@@ -19,9 +19,7 @@
     "Nishi Vootukuru": {
       "linkedin": "www.linkedin.com/in/nishita-vootukuru/",
       "headshot": "/assets/headshots/eta/nishi.jpg"
-    }
-  },
-    "Zeta Class Active Brothers": {
+    },
     "Anuja Badeti": {
       "linkedin": "www.linkedin.com/in/anuja-badeti/",
       "headshot": "/assets/headshots/zeta/anuja.jpg"
@@ -41,9 +39,7 @@
     "Akaash Patel": {
       "linkedin": "www.linkedin.com/in/akaash-patel/",
       "headshot": "/assets/headshots/zeta/akaash.jpg"
-    }
-  },
-    "Epsilon Class Active Brothers": {
+    },
     "Aaron Kellett": {
       "linkedin": "www.linkedin.com/in/aaron-kellett-0b5820176/",
       "headshot": "/assets/headshots/epsilons/Aaron.jpg"
@@ -51,9 +47,7 @@
     "Tejas Patel": {
       "linkedin": "www.linkedin.com/in/tejas-patel1/",
       "headshot": "/assets/headshots/epsilons/Tejas.jpg"
-   }
- },
-  "Delta Class Active Brothers": {
+   },
     "Amber Eiserle": {
       "linkedin": "www.linkedin.com/in/amber-eiserle/",
       "headshot": "/assets/headshots/delta/Amber Eiserle.JPG"
@@ -67,4 +61,8 @@
       "headshot": "/assets/headshots/delta/Ted Lee.JPG"
     }
   }
+<<<<<<< Updated upstream
 }
+=======
+}
+>>>>>>> Stashed changes
