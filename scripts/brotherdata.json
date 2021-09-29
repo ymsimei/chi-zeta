@@ -1,8 +1,60 @@
 {
-  "Eta Class Active Brothers": {
+  "Active Brothers": {
+	  "Aaron Alemi": {
+      "linkedin": "https://www.linkedin.com/in/aaron-alemi-a7a473207/",
+      "headshot": "/assets/headshots/theta/aaron.jpg"
+    },
+	  "Ameera Seethal": {
+      "linkedin": "https://www.linkedin.com/in/ameeraseetahal/",
+      "headshot": "/assets/headshots/theta/ameera.jpg"
+    },
+	  "Chinmay Patel": {
+      "linkedin": "www.linkedin.com/in/destiny-adeleye-314365113/",
+      "headshot": "/assets/headshots/theta/chinmay.jpg"
+    },
+    "Denise Cherdak": {
+      "linkedin": "https://www.linkedin.com/in/denise-cherdak-b94354199/",
+      "headshot": "/assets/headshots/theta/pancake.jpg"
+    },
+	  "Ivana Baez Ortiz": {
+      "linkedin": "https://www.linkedin.com/in/ivanabaezortiz/",
+      "headshot": "/assets/headshots/theta/ivana.jpg"
+    },
+    "Jeena Kataria": {
+      "linkedin": "https://www.linkedin.com/in/jeena-kataria-b0bb12178/",
+      "headshot": "/assets/headshots/theta/jeena.jpg"
+    },
+    "Jonathan Clarke": {
+      "linkedin": "https://www.linkedin.com/in/clarkejon/",
+      "headshot": "/assets/headshots/theta/jon.jpg"
+    },
+    "Kamiya Patel": {
+      "linkedin": "hhttps://www.linkedin.com/in/kamiya-patel/",
+      "headshot": "/assets/headshots/theta/kamiya.jpg"
+    },
+    "Pia Kapoor": {
+      "linkedin": "https://www.linkedin.com/in/pia-kapoor/",
+      "headshot": "/assets/headshots/theta/pia.jpg"
+    },
+    "Rishitha Inamadugu ": {
+      "linkedin": "https://www.linkedin.com/in/rishitha-i/",
+      "headshot": "/assets/headshots/theta/rishi.jpg"
+    },
+    "Sai Oku": {
+      "linkedin": "https://www.linkedin.com/in/sai-oku-336777207/",
+      "headshot": "/assets/headshots/theta/sai.jpg"
+    },
+    "Shreya Bose": {
+      "linkedin": "https://www.linkedin.com/in/bshreya/",
+      "headshot": "/assets/headshots/theta/shreya.jpg"
+    },
+    "Waleed Cheema": {
+      "linkedin": "https://www.linkedin.com/in/muhammadwaleedcheema/",
+      "headshot": "/assets/headshots/theta/waleed.jpg"
+    },
     "Destiny Adeleye": {
       "linkedin": "www.linkedin.com/in/destiny-adeleye-314365113/",
-      "headshot": "/assets/headshots/eta/Destiny.jpg"
+      "headshot": "/assets/headshots/theta/Destiny.jpg"
     },
     "Brendan Aszklar": {
       "linkedin": "www.linkedin.com/in/bta98/",
@@ -19,9 +71,7 @@
     "Nishi Vootukuru": {
       "linkedin": "www.linkedin.com/in/nishita-vootukuru/",
       "headshot": "/assets/headshots/eta/nishi.jpg"
-    }
-  },
-    "Zeta Class Active Brothers": {
+    },
     "Anuja Badeti": {
       "linkedin": "www.linkedin.com/in/anuja-badeti/",
       "headshot": "/assets/headshots/zeta/anuja.jpg"
@@ -41,9 +91,7 @@
     "Akaash Patel": {
       "linkedin": "www.linkedin.com/in/akaash-patel/",
       "headshot": "/assets/headshots/zeta/akaash.jpg"
-    }
-  },
-    "Epsilon Class Active Brothers": {
+    },
     "Aaron Kellett": {
       "linkedin": "www.linkedin.com/in/aaron-kellett-0b5820176/",
       "headshot": "/assets/headshots/epsilons/Aaron.jpg"
@@ -51,9 +99,7 @@
     "Tejas Patel": {
       "linkedin": "www.linkedin.com/in/tejas-patel1/",
       "headshot": "/assets/headshots/epsilons/Tejas.jpg"
-   }
- },
-  "Delta Class Active Brothers": {
+   },
     "Amber Eiserle": {
       "linkedin": "www.linkedin.com/in/amber-eiserle/",
       "headshot": "/assets/headshots/delta/Amber Eiserle.JPG"
@@ -67,4 +113,8 @@
       "headshot": "/assets/headshots/delta/Ted Lee.JPG"
     }
   }
+<<<<<<< Updated upstream
 }
+=======
+}
+>>>>>>> Stashed changes
