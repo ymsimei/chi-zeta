@@ -1,12 +1,3 @@
----
-title: Chi Zeta
-timezone: UTC
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
+# Build settings
 markdown: kramdown
-permalink: "/:title"
+permalink: /:title
