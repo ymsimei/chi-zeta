@@ -1,4 +1,48 @@
 {
+  "Kappa Class": {
+    "Harshit Panwar": {
+      "linkedin": "www.linkedin.com/",
+      "headshot": "/assets/headshots/kappas/harsh.jpg"
+    },
+	  "Jade Lorences": {
+      "linkedin": "www.linkedin.com/",
+      "headshot": "/assets/headshots/kappas/jade.jpg"
+    },
+	  "Jeffrey Luk": {
+      "linkedin": "www.linkedin.com/",
+      "headshot": "/assets/headshots/kappas/jeffrey.jpg"
+    },	
+    "Kaylin Albert": {
+      "linkedin": "www.linkedin.com",
+      "headshot": "/assets/headshots/kappas/kaylin.jpg"
+    },
+	  "Matt Torres": {
+      "linkedin": "www.linkedin.com",
+      "headshot": "/assets/headshots/kappas/matt.jpg"
+    },
+    "Nadia Manoppo": {
+      "linkedin": "www.linkedin.com/",
+      "headshot": "/assets/headshots/kappas/nadia.jpg"
+    },
+
+    "Pakhe Mewani": {
+      "linkedin": "www.linkedin.com/",
+      "headshot": "/assets/headshots/kappas/pakhe.jpg"
+    },
+
+    "Satyam Poonith": {
+      "linkedin": "www.linkedin.com",
+      "headshot": "/assets/headshots/kappas/satyam.jpg"
+    },
+    "Sophia Starzynski": {
+      "linkedin": "www.linkedin.com/",
+      "headshot": "/assets/headshots/kappas/sophia.jpg"
+    },
+    "Valliammai Janakiraman": {
+      "linkedin": "www.linkedin.com/,
+      "headshot": "/assets/headshots/kappas/valli.jpg"
+    }
+  },
   "Iota Class": {
     "Arushi Mandal": {
       "linkedin": "www.linkedin.com/in/arushi-mandal-0a99511b6/",
