@@ -1,45 +1,45 @@
 {
   "Kappa Class": {
     "Harshit Panwar": {
-      "linkedin": "www.linkedin.com/",
+      "linkedin": "www.linkedin.com/in/hpanwar",
       "headshot": "/assets/headshots/kappas/harsh.jpg"
     },
 	  "Jade Lorences": {
-      "linkedin": "www.linkedin.com/",
+      "linkedin": "www.linkedin.com/in/jadelorences",
       "headshot": "/assets/headshots/kappas/jade.jpg"
     },
 	  "Jeffrey Luk": {
-      "linkedin": "www.linkedin.com/",
+      "linkedin": "www.linkedin.com/in/jeffrey-luk0",
       "headshot": "/assets/headshots/kappas/jeffrey.jpg"
     },	
     "Kaylin Albert": {
-      "linkedin": "www.linkedin.com",
+      "linkedin": "www.linkedin.com/in/k-a-6a7b99231",
       "headshot": "/assets/headshots/kappas/kaylin.jpg"
     },
 	  "Matt Torres": {
-      "linkedin": "www.linkedin.com",
+      "linkedin": "www.linkedin.com/in/matthew-torres-796149232",
       "headshot": "/assets/headshots/kappas/matt.jpg"
     },
     "Nadia Manoppo": {
-      "linkedin": "www.linkedin.com/",
+      "linkedin": "www.linkedin.com/in/manopponadia",
       "headshot": "/assets/headshots/kappas/nadia.jpg"
     },
 
     "Pakhe Mewani": {
-      "linkedin": "www.linkedin.com/",
+      "linkedin": "www.linkedin.com/in/pmewani",
       "headshot": "/assets/headshots/kappas/pakhe.jpg"
     },
 
     "Satyam Poonith": {
-      "linkedin": "www.linkedin.com",
+      "linkedin": "www.linkedin.com/in/satyampoonith",
       "headshot": "/assets/headshots/kappas/satyam.jpg"
     },
     "Sophia Starzynski": {
-      "linkedin": "www.linkedin.com/",
+      "linkedin": "www.linkedin.com/in/sophia-starzynski-6440a8213",
       "headshot": "/assets/headshots/kappas/sophia.jpg"
     },
     "Valliammai Janakiraman": {
-      "linkedin": "www.linkedin.com/",
+      "linkedin": "www.linkedin.com/in/valli-janakiraman",
       "headshot": "/assets/headshots/kappas/valli.jpg"
     }
   },
@@ -88,7 +88,7 @@
       "linkedin": "www.linkedin.com/in/ridaa-alam/",
       "headshot": "/assets/headshots/iota/RidaaAlam.jpg"
     },
-    "Sagar Bahl": {
+    "Sagar Bahl*": {
       "linkedin": "www.linkedin.com/in/sagar-bahl/",
       "headshot": "/assets/headshots/iota/SagarBahl.jpg"
     },
@@ -114,7 +114,7 @@
       "linkedin": "www.linkedin.com/in/cap78/",
       "headshot": "/assets/headshots/theta/chinmay.jpeg"
     },	
-    "Denise Cherdak": {
+    "Denise Cherdak*": {
       "linkedin": "www.linkedin.com/in/denise-cherdak-b94354199/",
       "headshot": "/assets/headshots/theta/pancake.jpeg"
     },
@@ -162,15 +162,15 @@
       "linkedin": "www.linkedin.com/in/destiny-adeleye-314365113/",
       "headshot": "/assets/headshots/eta/Destiny.jpg"
     },
-    "Mahi Gada": {
+    "Mahi Gada*": {
       "linkedin": "www.linkedin.com/in/mahigada/",
       "headshot": "/assets/headshots/eta/Mahi.jpg"
     },
-    "Shareef Syed ": {
+    "Shareef Syed": {
       "linkedin": "www.linkedin.com/in/shareef-syed/",
       "headshot": "/assets/headshots/eta/shareef.jpg"
     },
-    "Nishi Vootukuru": {
+    "Nishi Vootukuru*": {
       "linkedin": "www.linkedin.com/in/nishita-vootukuru/",
       "headshot": "/assets/headshots/eta/nishi.jpg"
     },
@@ -180,7 +180,7 @@
       }
   },
     "Zeta Class": {
-    "Anuja Badeti": {
+    "Anuja Badeti*": {
       "linkedin": "www.linkedin.com/in/anuja-badeti/",
       "headshot": "/assets/headshots/zeta/anuja.jpg"
     },
@@ -188,11 +188,11 @@
       "linkedin": "www.linkedin.com/in/cdb24/",
       "headshot": "/assets/headshots/zeta/carlos.jpg"
     },
-    "Naitam Gandhi": {
+    "Naitam Gandhi*": {
       "linkedin": "www.linkedin.com/in/naitam-gandhi/",
       "headshot": "/assets/headshots/zeta/naitam.jpg"
     },
-    "Perbhat Kumar": {
+    "Perbhat Kumar*": {
       "linkedin": "www.linkedin.com/in/perbhat",
       "headshot": "/assets/headshots/zeta/perbhat.jpg"
     },
@@ -214,7 +214,7 @@
       "linkedin": "www.linkedin.com/in/aaron-kellett-0b5820176/",
       "headshot": "/assets/headshots/epsilons/Aaron.jpg"
     },
-    "Tejas Patel": {
+    "Tejas Patel*": {
       "linkedin": "www.linkedin.com/in/tejas-patel1/",
       "headshot": "/assets/headshots/epsilons/Tejas.jpg"
    },
@@ -246,19 +246,19 @@
   }
  },
   "Delta Class ": {
-    "Arjun Kumar": {
+    "Arjun Kumar*": {
       "linkedin": "www.linkedin.com/in/kumar-arjun//",
       "headshot": "/assets/headshots/delta/arjun.jpg"
     },
-    "Amber Eiserle": {
+    "Amber Eiserle*": {
       "linkedin": "www.linkedin.com/in/amber-eiserle/",
       "headshot": "/assets/headshots/delta/Amber Eiserle.JPG"
     },
-    "Susmitha Duvapu": {
+    "Susmitha Duvapu*": {
       "linkedin": "www.linkedin.com/in/susmitha-duvapu-b09182185/",
       "headshot": "/assets/headshots/delta/Susmitha Duvapu.JPG"
     },
-    "Ted Lee": {
+    "Ted Lee*": {
       "linkedin": "www.linkedin.com/in/tedhlee/",
       "headshot": "/assets/headshots/delta/Ted Lee.JPG"
     },
