@@ -1,4 +1,49 @@
 {
+  "Lambda Class": {
+    "Alexis Orellana": {
+      "linkedin": "www.linkedin.com/",
+      "headshot": "/assets/headshots/lambdas/AlexisO.jpg"
+    },
+	  "Celine Jobson": {
+      "linkedin": "www.linkedin.com/",
+      "headshot": "/assets/headshots/lambdas/CelineJ.jpg"
+    },
+	  "Eugene Shanga": {
+      "linkedin": "www.linkedin.com/",
+      "headshot": "/assets/headshots/lambdas/EugeneS"
+    },	
+    "Jaden Choi": {
+      "linkedin": "www.linkedin.com/",
+      "headshot": "/assets/headshots/lambdas/JadenC"
+    },
+	  "James Pineda": {
+      "linkedin": "www.linkedin.com/",
+      "headshot": "/assets/headshots/lambdas/JamesP"
+    },
+    "Juan Perez": {
+      "linkedin": "www.linkedin.com/",
+      "headshot": "/assets/headshots/lambdas/JuanP"
+    },
+
+    "Justin Abraham": {
+      "linkedin": "www.linkedin.com/",
+      "headshot": "/assets/headshots/lambdas/JustinA"
+    },
+
+    "Megha Saju": {
+      "linkedin": "www.linkedin.com/",
+      "headshot": "/assets/headshots/lambdas/MeghaS"
+    },
+    "Melisa Bilgili": {
+      "linkedin": "www.linkedin.com/",
+      "headshot": "/assets/headshots/lambdas/MelisaB"
+    },
+    "Ruben Jaya": {
+      "linkedin": "www.linkedin.com/",
+      "headshot": "/assets/headshots/lambdas/RubenJ.jpg"
+    }
+  },
+{
   "Kappa Class": {
     "Harshit Panwar": {
       "linkedin": "www.linkedin.com/in/hpanwar",
