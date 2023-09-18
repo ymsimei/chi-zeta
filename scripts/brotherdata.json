@@ -1,4 +1,48 @@
 {
+  "Mu Class": {
+    "Arnav Jain": {
+      "linkedin": "www.linkedin.com/in/",
+      "headshot": "/assets/headshots/mus/arnav.jpeg"
+    },
+	  "Ayush Patel": {
+      "linkedin": "www.linkedin.com/in/",
+      "headshot": "/assets/headshots/mus/ayush.jpeg"
+    },
+	  "Cameron Rivera": {
+      "linkedin": "www.linkedin.com/in/",
+      "headshot": "/assets/headshots/mus/cameron.jpeg"
+    },	
+    "Ellison O'Grady": {
+      "linkedin": "www.linkedin.com/",
+      "headshot": "/assets/headshots/mus/ellison.jpeg"
+    },
+	  "Michael Luland": {
+      "linkedin": "www.linkedin.com/in/",
+      "headshot": "/assets/headshots/mus/michaelL.jpeg"
+    },
+    "Michael Hulaj": {
+      "linkedin": "www.linkedin.com/",
+      "headshot": "/assets/headshots/mus/michaelH.jpeg"
+    },
+
+    "Mithil Patel": {
+      "linkedin": "www.linkedin.com/",
+      "headshot": "/assets/headshots/mus/mithil.jpeg"
+    },
+
+    "Om Tripathi": {
+      "linkedin": "www.linkedin.com/",
+      "headshot": "/assets/headshots/mus/om.jpeg"
+    },
+    "Suhas Murthy": {
+      "linkedin": "www.linkedin.com/",
+      "headshot": "/assets/headshots/mus/suhas.jpeg"
+    },
+    "Vignesh Prakash": {
+      "linkedin": "www.linkedin.com/",
+      "headshot": "/assets/headshots/mus/vignesh.jpeg"
+    }
+  },
   "Lambda Class": {
     "Alexis Orellana": {
       "linkedin": "www.linkedin.com/in/alexisorellana/",
