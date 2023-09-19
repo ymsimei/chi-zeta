@@ -20,7 +20,7 @@
       "linkedin": "www.linkedin.com/in/",
       "headshot": "/assets/headshots/mus/michaelL.jpeg"
     },
-    "Michael Hulaj": {
+    "Michael Halaj": {
       "linkedin": "www.linkedin.com/",
       "headshot": "/assets/headshots/mus/michaelH.jpeg"
     },
@@ -154,7 +154,7 @@
       "linkedin": "www.linkedin.com/in/derekgomez01/",
       "headshot": "/assets/headshots/iota/DerekGomez.jpg"
     },
-    "Dharmaj Pipaliya": {
+    "Dharmaj Pipaliya*": {
       "linkedin": "www.linkedin.com/in/dharmajpipaliya/",
       "headshot": "/assets/headshots/iota/DharmajPipaliya.jpg"
     },
@@ -166,7 +166,7 @@
       "linkedin": "www.linkedin.com/in/max-gregorio/",
       "headshot": "/assets/headshots/iota/MaxGregorio.jpg"
     },
-    "Pallavi Kanoor": {
+    "Pallavi Kanoor*": {
       "linkedin": "www.linkedin.com/in/pallavikanoor/",
       "headshot": "/assets/headshots/iota/PallaviKanoor.jpg"
     },
@@ -186,7 +186,7 @@
       "linkedin": "www.linkedin.com/in/sarahlutz01/",
       "headshot": "/assets/headshots/iota/SarahLutz.jpg"
     },
-    "Shimoni Patel": {
+    "Shimoni Patel*": {
       "linkedin": "www.linkedin.com/in/shimoni-p/",
       "headshot": "/assets/headshots/iota/ShimoniPatel.jpg"
     }
@@ -196,7 +196,7 @@
       "linkedin": "www.linkedin.com/in/aaron-alemi-a7a473207/",
       "headshot": "/assets/headshots/theta/aaron.jpeg"
     },
-	  "Ameera Seetahal": {
+	  "Ameera Seetahal*": {
       "linkedin": "www.linkedin.com/in/ameeraseetahal/",
       "headshot": "/assets/headshots/theta/ameera.jpeg"
     },
@@ -208,21 +208,21 @@
       "linkedin": "www.linkedin.com/in/denise-cherdak-b94354199/",
       "headshot": "/assets/headshots/theta/pancake.jpeg"
     },
-	  "Ivana Baez Ortiz": {
+	  "Ivana Baez Ortiz*": {
       "linkedin": "www.linkedin.com/in/ivanabaezortiz/",
       "headshot": "/assets/headshots/theta/ivana.jpeg"
     },
-    "Jeena Kataria": {
+    "Jeena Kataria*": {
       "linkedin": "www.linkedin.com/in/jeena-kataria-b0bb12178/",
       "headshot": "/assets/headshots/theta/jeena.jpeg"
     },
 
-    "Jonathan Clarke": {
+    "Jonathan Clarke*": {
       "linkedin": "www.linkedin.com/in/clarkejon/",
       "headshot": "/assets/headshots/theta/jon.jpeg"
     },
 
-    "Kamiya Patel": {
+    "Kamiya Patel*": {
       "linkedin": "www.linkedin.com/in/kamiya-patel/",
       "headshot": "/assets/headshots/theta/kamiya.jpeg"
     },
@@ -230,7 +230,7 @@
       "linkedin": "www.linkedin.com/in/pia-kapoor/",
       "headshot": "/assets/headshots/theta/pia.jpeg"
     },
-    "Rishitha Inamadugu ": {
+    "Rishitha Inamadugu*": {
       "linkedin": "www.linkedin.com/in/rishitha-i/",
       "headshot": "/assets/headshots/theta/rishi.jpeg"
     },
@@ -242,7 +242,7 @@
       "linkedin": "www.linkedin.com/in/bshreya/",
       "headshot": "/assets/headshots/theta/shreya.jpeg"
     },
-    "Waleed Cheema": {
+    "Waleed Cheema*": {
       "linkedin": "www.linkedin.com/in/muhammadwaleedcheema/",
       "headshot": "/assets/headshots/theta/waleed.jpeg"
     }
@@ -286,7 +286,7 @@
       "linkedin": "www.linkedin.com/in/perbhat",
       "headshot": "/assets/headshots/zeta/perbhat.jpg"
     },
-    "Akaash Patel": {
+    "Akaash Patel*": {
       "linkedin": "www.linkedin.com/in/akaash-patel/",
       "headshot": "/assets/headshots/zeta/akaash.jpg"
     },
@@ -300,7 +300,7 @@
     }
   },
     "Epsilon Class": {
-    "Aaron Kellett": {
+    "Aaron Kellett*": {
       "linkedin": "www.linkedin.com/in/aaron-kellett-0b5820176/",
       "headshot": "/assets/headshots/epsilons/Aaron.jpg"
     },
