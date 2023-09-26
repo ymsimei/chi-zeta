@@ -1,46 +1,46 @@
 {
   "Mu Class": {
     "Arnav Jain": {
-      "linkedin": "www.linkedin.com/in/",
-      "headshot": "/assets/headshots/mus/arnav.jpeg"
+      "linkedin": "https://www.linkedin.com/in/arnav-jain01/",
+      "headshot": "/assets/headshots/mus/arnav.jpg"
     },
 	  "Ayush Patel": {
-      "linkedin": "www.linkedin.com/in/",
-      "headshot": "/assets/headshots/mus/ayush.jpeg"
+      "linkedin": "https://www.linkedin.com/in/ayushpatelnj/",
+      "headshot": "/assets/headshots/mus/ayush.jpg"
     },
 	  "Cameron Rivera": {
-      "linkedin": "www.linkedin.com/in/",
-      "headshot": "/assets/headshots/mus/cameron.jpeg"
+      "linkedin": "https://www.linkedin.com/in/cameron-rivera-801684260/",
+      "headshot": "/assets/headshots/mus/cameron.jpg"
     },	
     "Ellison O'Grady": {
-      "linkedin": "www.linkedin.com/",
-      "headshot": "/assets/headshots/mus/ellison.jpeg"
+      "linkedin": " https://www.linkedin.com/in/ekcog/",
+      "headshot": "/assets/headshots/mus/ellison.jpg"
     },
 	  "Michael Luland": {
-      "linkedin": "www.linkedin.com/in/",
-      "headshot": "/assets/headshots/mus/michaelL.jpeg"
+      "linkedin": "https://www.linkedin.com/in/michael-luland/",
+      "headshot": "/assets/headshots/mus/michaelL.jpg"
     },
     "Michael Halaj": {
-      "linkedin": "www.linkedin.com/",
-      "headshot": "/assets/headshots/mus/michaelH.jpeg"
+      "linkedin": "https://www.linkedin.com/in/michael-halaj/",
+      "headshot": "/assets/headshots/mus/michaelH.jpg"
     },
 
     "Mithil Patel": {
-      "linkedin": "www.linkedin.com/",
-      "headshot": "/assets/headshots/mus/mithil.jpeg"
+      "linkedin": "https://www.linkedin.com/in/mithil-patel-56b592266/",
+      "headshot": "/assets/headshots/mus/mithil.jpg"
     },
 
     "Om Tripathi": {
-      "linkedin": "www.linkedin.com/",
-      "headshot": "/assets/headshots/mus/om.jpeg"
+      "linkedin": "https://www.linkedin.com/in/om-tripathi-8b97251b3/",
+      "headshot": "/assets/headshots/mus/om.jpg"
     },
     "Suhas Murthy": {
-      "linkedin": "www.linkedin.com/",
-      "headshot": "/assets/headshots/mus/suhas.jpeg"
+      "linkedin": "https://www.linkedin.com/in/suhas-murthy1/",
+      "headshot": "/assets/headshots/mus/suhas.jpg"
     },
     "Vignesh Prakash": {
-      "linkedin": "www.linkedin.com/",
-      "headshot": "/assets/headshots/mus/vignesh.jpeg"
+      "linkedin": "https://www.linkedin.com/in/vignesh-prakash/",
+      "headshot": "/assets/headshots/mus/vignesh.jpg"
     }
   },
   "Lambda Class": {
@@ -208,7 +208,7 @@
       "linkedin": "www.linkedin.com/in/denise-cherdak-b94354199/",
       "headshot": "/assets/headshots/theta/pancake.jpeg"
     },
-	  "Ivana Baez Ortiz*": {
+	  "Ivana Baez Ortiz": {
       "linkedin": "www.linkedin.com/in/ivanabaezortiz/",
       "headshot": "/assets/headshots/theta/ivana.jpeg"
     },
