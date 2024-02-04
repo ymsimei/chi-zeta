@@ -1,4 +1,30 @@
 {
+  "Nu Class": {
+    "Bilal Syed": {
+      "linkedin": "https://www.linkedin.com/in/bilal-syed-5a4ab6217",
+      "headshot": "/assets/headshots/nu/bilal.jpg"
+    },
+	  "Dhayna Sureshbabu": {
+      "linkedin": "https://www.linkedin.com/in/dhanya-sureshbabu",
+      "headshot": "/assets/headshots/nu/dhanya.jpg"
+    },
+	  "Haley Patel": {
+      "linkedin": "https://www.linkedin.com/in/haleypatel12",
+      "headshot": "/assets/headshots/nu/haley.jpg"
+    },	
+    "Jonathan Ghaly": {
+      "linkedin": " https://www.linkedin.com/in/jonathanghaly",
+      "headshot": "/assets/headshots/nu/ellison.jpg"
+    },
+	  "Pia Piazzi": {
+      "linkedin": "https://www.linkedin.com/in/pia-piazzi/",
+      "headshot": "/assets/headshots/nu/piaP.jpg"
+    },
+    "Soham Shashikumar": {
+      "linkedin": "https://www.linkedin.com/in/soham-shashikumar-583471293/",
+      "headshot": "/assets/headshots/mus/sohamS.jpg"
+    }
+  },
   "Mu Class": {
     "Arnav Jain": {
       "linkedin": "https://www.linkedin.com/in/arnav-jain01/",
