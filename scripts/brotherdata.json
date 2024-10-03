@@ -1,4 +1,18 @@
 {
+  "Xi Class":{
+    "Ananya Tyagi":{
+      "linkedin":"//www.linkedin.com/in/ananyatyagi323/",
+      "headshot":"/assets/headshots/xis/ananya"
+    },
+    "Bilal Veysel":{
+      "linkedin":"www.linkedin.com/in/bilalveysel/",
+      "headshot":"/assets/headshots/xis/bilal"
+    },
+    "Govinda Vijapurkar":{
+      "linkedin":"www.linkedin.com/in/govinda-vijapurkar-226139297/",
+      "headshot":"/assets/headshots/xis/govinda"
+    }
+  },
   "Nu Class": {
     "Bilal Syed": {
       "linkedin": "www.linkedin.com/in/bilal-syed-5a4ab6217",
